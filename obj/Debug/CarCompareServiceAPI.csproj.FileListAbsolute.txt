@@ -1,0 +1,7 @@
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\obj\Debug\CarCompareServiceAPI.csprojAssemblyReference.cache
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\obj\Debug\CarCompareServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\bin\CarCompareServiceAPI.dll.config
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\bin\CarCompareServiceAPI.dll
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\bin\CarCompareServiceAPI.pdb
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\obj\Debug\CarCompareServiceAPI.dll
+C:\Users\svall\Source\repos\CarCompareServiceAPI\CarCompareServiceAPI\obj\Debug\CarCompareServiceAPI.pdb
